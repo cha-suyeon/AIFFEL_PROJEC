@@ -2,8 +2,12 @@
 - Date: 2021.06.24-2022.12.16
 - 👩🏾‍🔬아이펠 과정동안 개인적으로 수행한 토이 프로젝트 모음
 
+<br/>
+
 ## Practice Node
 - LMS 실습용 코드
+
+<br/>
 
 ## Exploration
 - CV, NLP 분야의 다양한 주제별 딥러닝 기본 모델 학습
@@ -27,6 +31,8 @@
 |15|대화형 챗봇|Transformer|[🔗](https://github.com/cha-suyeon/AIFFEL_PROJECT/blob/main/Exploration/EX15_Transformer_Chatbot.ipynb)
 |16|이미지 고해상도 변환|Super Resolution|[🔗](https://github.com/cha-suyeon/AIFFEL_PROJECT/tree/main/Exploration/EX16_SRGAN)
 |17|KorQuAD QnA 모델|BERT|[🔗](https://github.com/cha-suyeon/AIFFEL_PROJECT/blob/main/Exploration/EX17_KorQuAD_Pretrained_model.ipynb)
+
+<br/>
 
 ## Going Deeper
 - CV 분야 심화 학습
