@@ -41,8 +41,8 @@
 |--|--|--|--|
 |1|ResNet Ablation Study|Ablation Study & ResNet 구현|[🔗](https://github.com/cha-suyeon/AIFFEL_PROJECT/blob/main/Going_Deeper/Project_01_ResNet_Ablation_Study.ipynb)
 |2|CutMix, Mixup Augmentation 성능 비교|Random Augmentation|[🔗](https://github.com/cha-suyeon/AIFFEL_PROJECT/blob/main/Going_Deeper/Project_02_CutMix_Mixup.ipynb)
-|3|CAM, Grad-CAM, IoU, MaP|CAM, Grad-CAM model|[🔗]()
-|4|자율주행 보조 시스템 만들기|Object Detection|[🔗](https://nbviewer.org/github/cha-suyeon/AIFFEL_PROJECT/blob/main/Going_Deeper/Project_03_CAM_vs_Grad_CAM_IoU.ipynb)
+|3|CAM, Grad-CAM, IoU, MaP|CAM, Grad-CAM model|[🔗](https://nbviewer.org/github/cha-suyeon/AIFFEL_PROJECT/blob/main/Going_Deeper/Project_03_CAM_vs_Grad_CAM_IoU.ipynb)
+|4|자율주행 보조 시스템 만들기|Object Detection|[🔗](https://nbviewer.org/github/cha-suyeon/AIFFEL_PROJECT/blob/main/Going_Deeper/Project_04_object_detection.ipynb)
 |5|개선된 U-Net 모델 만들기|Segmentation|[🔗](https://github.com/cha-suyeon/AIFFEL_PROJECT/blob/main/Going_Deeper/Project_05_segmentation_U-Net_vs_U-Net%2B%2B.ipynb)
 |6|End-to-End OCR|Recognition model|[🔗](https://github.com/cha-suyeon/AIFFEL_PROJECT/blob/main/Going_Deeper/Project_06_End-to-End_OCR.ipynb)
 |7|Face Detector|Face Detection|[🔗](https://github.com/cha-suyeon/AIFFEL_PROJECT/blob/main/Going_Deeper/Project_07_face_detector.ipynb)
